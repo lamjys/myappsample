@@ -4,7 +4,7 @@
 
 ## xRDP Sound Redirection
 - xrdp-installer script
-- https://c-nergy.be/blog/?p=16817
+- [Griffon's Blog on xRDP](https://c-nergy.be/blog/?p=16817)
 - post-configuration actions of xRDP on top of Ubuntu
 - `wget https://www.c-nergy.be/downloads/xRDP/xrdp-installer-1.2.3.zip`
 - `unzip xrdp-installer-1.2.3.zip `
