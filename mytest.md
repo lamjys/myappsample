@@ -4,6 +4,7 @@
 - list five
 - list six
 - list seven
+- list eight
 
 ## xRDP Sound Redirection
 - xrdp-installer script
